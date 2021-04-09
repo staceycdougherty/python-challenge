@@ -1,10 +1,10 @@
 '''Your task is to create a Python script that analyzes the records to calculate each of the following:
 -done-The total number of months included in the dataset
 -done-The net total amount of "Profit/Losses" over the entire period
--Calculate the changes in "Profit/Losses" over the entire period, then find the average of those changes
--The greatest increase in profits (date and amount) over the entire period
--The greatest decrease in losses (date and amount) over the entire period
--In addition, your final script should both print the analysis to the terminal and export a text file with the results.
+-done-Calculate the changes in "Profit/Losses" over the entire period, then find the average of those changes
+-done-The greatest increase in profits (date and amount) over the entire period
+-done-The greatest decrease in losses (date and amount) over the entire period
+-done-In addition, your final script should both print the analysis to the terminal and export a text file with the results.
 '''
 
 
